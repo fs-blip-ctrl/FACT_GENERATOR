@@ -23,7 +23,7 @@ The Country Facts Generator is a web-based application that displays random info
 ---
 
 ## 🌐 Live Demo
-👉 https://fs-blip-ctrl.github.io/YOUR-REPO-NAME/
+ https://fs-blip-ctrl.github.io/FACT_GENERATOR/
 
 ---
 
